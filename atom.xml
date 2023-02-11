@@ -6,7 +6,7 @@
   <link href="https://tangsong.org/atom.xml" rel="self"/>
   
   <link href="https://tangsong.org/"/>
-  <updated>2023-02-11T07:31:39.047Z</updated>
+  <updated>2023-02-11T09:29:30.029Z</updated>
   <id>https://tangsong.org/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>相册测试</title>
+    <link href="https://tangsong.org/2023/02/11/gallery-1/"/>
+    <id>https://tangsong.org/2023/02/11/gallery-1/</id>
+    <published>2023-02-11T09:22:31.000Z</published>
+    <updated>2023-02-11T09:29:30.029Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="h图片" scheme="https://tangsong.org/tags/h%E5%9B%BE%E7%89%87/"/>
+    
+  </entry>
   
   <entry>
     <title>迟来的年度总结和新年计划</title>
@@ -67,7 +89,7 @@
     <published>2020-07-02T05:09:08.000Z</published>
     <updated>2021-02-02T09:33:31.853Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>&ensp;&ensp;&ensp;&ensp;刚开始是宿舍里的一个室友在看，犯困的我便被吸引住了。之后平时没事或者看书累了，总会点开这部剧，他们的世界里有热血，有搞笑，有温馨，有伤感，有血有肉，<a id="more"></a>尽管很多地方都是荒诞不羁，但却能让我放松，让我笑，让我哭。</p>    <div id="aplayer-CIwkEQAh" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1312711540" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"    ></div><p>&ensp;&ensp;&ensp;&ensp;插曲来自Rick and Morty S02E03，主要讲述的是Rick和他的老情人Unity重逢的故事，整部故事中为数不多的讲述Rick自己个人感情的一集。不剧透，听完音乐，有喜欢的可以去看看。我会在文章最后放上自己收藏的全集链接。</p><p>&ensp;&ensp;&ensp;&ensp;抽空我把四部都看完了，意犹未尽的我决定把这部剧收藏下来，虽说只是动漫，画质要求并不高，但是怎么说也是部神剧，所以我通过各种途径收集齐了目前为止四季全集的1080P版本，除了S03是内嵌字幕，其余的都是配字幕文件的，也可以作为一份有趣的英语学习资料/笑。</p><p>&ensp;&ensp;&ensp;&ensp;当然，要感谢字幕组的付出，让我这个英语学渣得以良好的体验这部剧。S01-S03的字幕全部用的是电波字幕组的文件，在此感谢他们的奉献。</p><p><img src="https://img-loli.oss-cn-hangzhou.aliyuncs.com/img/20210202173224.webp" alt=""></p><blockquote><p>百度网盘：<a href="https://pan.baidu.com/s/1AoUWnbDdPBzVW7hTwIl7XA" target="_blank" rel="noopener">https://pan.baidu.com/s/1AoUWnbDdPBzVW7hTwIl7XA</a></p>    <p>    提取码: 5789    </p></blockquote><blockquote>    <p>    <a>秒传链接</a>        <p>        54670A65665E353BB4FEF0917D68D33B#DA2900642325356E70D04A753F9E9440#5403407856#S03.7z391B95D95EE56A033140C0E75036597C#FEEB1241C626239DD005FA6D0F58FAF9#5420427513#S04.7z3E9139357C5C45D246CE102F34A83B9F#E19628316DF331445700A321FBF0C537#9611266688#S01.7zD0A97C839EE471F3A12669C822B8050C#650D130DAFBEB3B719F3D876EEE76FD3#11631972781#S02.7z            </p>    </p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>&ensp;&ensp;&ensp;&ensp;刚开始是宿舍里的一个室友在看，犯困的我便被吸引住了。之后平时没事或者看书累了，总会点开这部剧，他们的世界里有热血，有搞笑，有温馨，有伤感，有血有肉，<a id="more"></a>尽管很多地方都是荒诞不羁，但却能让我放松，让我笑，让我哭。</p>    <div id="aplayer-WIqfFaUx" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1312711540" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"    ></div><p>&ensp;&ensp;&ensp;&ensp;插曲来自Rick and Morty S02E03，主要讲述的是Rick和他的老情人Unity重逢的故事，整部故事中为数不多的讲述Rick自己个人感情的一集。不剧透，听完音乐，有喜欢的可以去看看。我会在文章最后放上自己收藏的全集链接。</p><p>&ensp;&ensp;&ensp;&ensp;抽空我把四部都看完了，意犹未尽的我决定把这部剧收藏下来，虽说只是动漫，画质要求并不高，但是怎么说也是部神剧，所以我通过各种途径收集齐了目前为止四季全集的1080P版本，除了S03是内嵌字幕，其余的都是配字幕文件的，也可以作为一份有趣的英语学习资料/笑。</p><p>&ensp;&ensp;&ensp;&ensp;当然，要感谢字幕组的付出，让我这个英语学渣得以良好的体验这部剧。S01-S03的字幕全部用的是电波字幕组的文件，在此感谢他们的奉献。</p><p><img src="https://img-loli.oss-cn-hangzhou.aliyuncs.com/img/20210202173224.webp" alt=""></p><blockquote><p>百度网盘：<a href="https://pan.baidu.com/s/1AoUWnbDdPBzVW7hTwIl7XA" target="_blank" rel="noopener">https://pan.baidu.com/s/1AoUWnbDdPBzVW7hTwIl7XA</a></p>    <p>    提取码: 5789    </p></blockquote><blockquote>    <p>    <a>秒传链接</a>        <p>        54670A65665E353BB4FEF0917D68D33B#DA2900642325356E70D04A753F9E9440#5403407856#S03.7z391B95D95EE56A033140C0E75036597C#FEEB1241C626239DD005FA6D0F58FAF9#5420427513#S04.7z3E9139357C5C45D246CE102F34A83B9F#E19628316DF331445700A321FBF0C537#9611266688#S01.7zD0A97C839EE471F3A12669C822B8050C#650D130DAFBEB3B719F3D876EEE76FD3#11631972781#S02.7z            </p>    </p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;刚开始是宿舍里的一个室友在看，犯困的我便被吸引住了。之后平时没事或者看书累了，总会点开这部剧，他们的世界里有热血，有搞笑，有温馨，有伤感，有血有肉，</summary>
