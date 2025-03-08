@@ -54,45 +54,12 @@
       </tags>
   </entry>
   <entry>
-    <title>迟来的年度总结和新年计划</title>
-    <url>/2022/04/03/new-year-plan/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>4月份了，我才开始谢这份年度总结，和新年计划。嘿，也不算太晚吧。</p>
-<a id="more"></a>
-
-<p>去年，在学校里摸了一个学期不到的鱼后，就给学校以所谓的学徒制搞到公司来，进行所谓的学徒制生活。实话说我并不介意，因为学校里老师也不教多么有深度的内容，真想要学还得靠自己的努力，早点出学校也好。</p>
-<p>去年没什么可提的，浑浑噩噩的一年，上面的一段话就算是总结了吧。</p>
-<p>来看看今年的目标吧，如下：</p>
-<ul>
-<li><input disabled="" type="checkbox"> 7月前买一部相机</li>
-<li><input disabled="" type="checkbox"> 工作转正，最好能完全的实现自给自足吧</li>
-<li><input disabled="" type="checkbox"> 计划一趟旅游，能和家人一起，能出省最好</li>
-<li><input disabled="" type="checkbox"> 给妹妹买一部手机</li>
-<li><input disabled="" type="checkbox"> 尽量考出驾照</li>
-</ul>
-<p>如上，今年底看看2022年我到底是进步了还是和去年一样的混日子吧。</p>
+    <title>第一篇</title>
+    <url>/2020/04/25/%E7%AC%AC%E4%B8%80%E7%AF%87/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>​    万事开头难，但更难的，还是坚持。</p>
 ]]></content>
       <tags>
         <tag>日常</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>chevereto邮件服务搭配腾讯企业邮箱</title>
-    <url>/2020/07/24/chevereto-mail/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="1、在域名中添加CNAME记录"><a href="#1、在域名中添加CNAME记录" class="headerlink" title="1、在域名中添加CNAME记录"></a>1、在域名中添加CNAME记录</h3><p>详细设置参阅腾讯企业邮箱帮助中心：<a href="https://work.weixin.qq.com/help?person_id=0&doc_id=397&helpType=exmail" target="_blank" rel="noopener">传送门</a></p>
-<p>以下是我的配置：</p>
-<p><img src="https://img-loli.oss-cn-hangzhou.aliyuncs.com/img/2020/07/23/9QW.png" alt=""></p>
-<a id="more"></a>
-
-<h3 id="2、chevereto图床中的设置"><a href="#2、chevereto图床中的设置" class="headerlink" title="2、chevereto图床中的设置"></a>2、chevereto图床中的设置</h3><p><img src="https://img-loli.oss-cn-hangzhou.aliyuncs.com/img/2020/07/23/2vc.png" alt=""></p>
-<p>上图为我自己的配置，注意图中框选位置，SMTP服务器应填写腾讯的服务器地址，填写自己的服务器域名会出现错误。</p>
-<p>SMTP密码因为我开启了安全登录，所以使用的是客户端专用密码。</p>
-<p>专用密码获取路径：邮箱设置→邮箱绑定→客户端专用密码</p>
-]]></content>
-      <categories>
-        <category>问题</category>
-      </categories>
-      <tags>
-        <tag>图床</tag>
       </tags>
   </entry>
   <entry>
@@ -100,7 +67,7 @@
     <url>/2020/07/02/Rick%20and%20Morty/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>&ensp;&ensp;&ensp;&ensp;刚开始是宿舍里的一个室友在看，犯困的我便被吸引住了。之后平时没事或者看书累了，总会点开这部剧，他们的世界里有热血，有搞笑，有温馨，有伤感，有血有肉，<a id="more"></a>尽管很多地方都是荒诞不羁，但却能让我放松，让我笑，让我哭。</p>
 
-    <div id="aplayer-wuYlUQww" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-hSyaBpcn" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="1312711540" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"
     ></div>
 
@@ -154,12 +121,81 @@ D0A97C839EE471F3A12669C822B8050C#650D130DAFBEB3B719F3D876EEE76FD3#11631972781#S0
       </tags>
   </entry>
   <entry>
-    <title>第一篇</title>
-    <url>/2020/04/25/%E7%AC%AC%E4%B8%80%E7%AF%87/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>​    万事开头难，但更难的，还是坚持。</p>
+    <title>chevereto邮件服务搭配腾讯企业邮箱</title>
+    <url>/2020/07/24/chevereto-mail/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="1、在域名中添加CNAME记录"><a href="#1、在域名中添加CNAME记录" class="headerlink" title="1、在域名中添加CNAME记录"></a>1、在域名中添加CNAME记录</h3><p>详细设置参阅腾讯企业邮箱帮助中心：<a href="https://work.weixin.qq.com/help?person_id=0&doc_id=397&helpType=exmail" target="_blank" rel="noopener">传送门</a></p>
+<p>以下是我的配置：</p>
+<p><img src="https://img-loli.oss-cn-hangzhou.aliyuncs.com/img/2020/07/23/9QW.png" alt=""></p>
+<a id="more"></a>
+
+<h3 id="2、chevereto图床中的设置"><a href="#2、chevereto图床中的设置" class="headerlink" title="2、chevereto图床中的设置"></a>2、chevereto图床中的设置</h3><p><img src="https://img-loli.oss-cn-hangzhou.aliyuncs.com/img/2020/07/23/2vc.png" alt=""></p>
+<p>上图为我自己的配置，注意图中框选位置，SMTP服务器应填写腾讯的服务器地址，填写自己的服务器域名会出现错误。</p>
+<p>SMTP密码因为我开启了安全登录，所以使用的是客户端专用密码。</p>
+<p>专用密码获取路径：邮箱设置→邮箱绑定→客户端专用密码</p>
+]]></content>
+      <categories>
+        <category>问题</category>
+      </categories>
+      <tags>
+        <tag>图床</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>迟来的年度总结和新年计划</title>
+    <url>/2022/04/03/new-year-plan/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>4月份了，我才开始谢这份年度总结，和新年计划。嘿，也不算太晚吧。</p>
+<a id="more"></a>
+
+<p>去年，在学校里摸了一个学期不到的鱼后，就给学校以所谓的学徒制搞到公司来，进行所谓的学徒制生活。实话说我并不介意，因为学校里老师也不教多么有深度的内容，真想要学还得靠自己的努力，早点出学校也好。</p>
+<p>去年没什么可提的，浑浑噩噩的一年，上面的一段话就算是总结了吧。</p>
+<p>来看看今年的目标吧，如下：</p>
+<ul>
+<li><input disabled="" type="checkbox"> 7月前买一部相机</li>
+<li><input disabled="" type="checkbox"> 工作转正，最好能完全的实现自给自足吧</li>
+<li><input disabled="" type="checkbox"> 计划一趟旅游，能和家人一起，能出省最好</li>
+<li><input disabled="" type="checkbox"> 给妹妹买一部手机</li>
+<li><input disabled="" type="checkbox"> 尽量考出驾照</li>
+</ul>
+<p>如上，今年底看看2022年我到底是进步了还是和去年一样的混日子吧。</p>
 ]]></content>
       <tags>
         <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025-new-year-plan</title>
+    <url>/2025/03/08/2025-new-year-plan/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>&ensp;&ensp;&ensp;&ensp;今年的总结，比去年稍早一个月，有进步了。</p>
+<a id="more"></a>
+
+<p>&ensp;&ensp;&ensp;&ensp;先来看下去年的目标吧，如下列表：</p>
+<ul>
+<li>一次自己规划的旅游</li>
+<li>一组自己满意的照片</li>
+<li>成功考取技能证书</li>
+<li>做些能让自己幸福的事儿</li>
+</ul>
+<p>&ensp;&ensp;&ensp;&ensp;一个个来说吧 ，第一个目标，我想要一次由自己安排的旅游。有句古话说“读万卷书，行万里路。”我的人生到现在已经二十多年了，前面大概十几年的时间都在学校里 度过，按照共和国的应试教育，万卷书虽然夸张了，不过也已经有很多了。万里路是我将来想走的。不过很遗憾，在去年没能实现这个目标。有很多次机会我可以自己安排，比如五一长假，国庆长假，甚至年前那半个多月的假期，我可以去国内任何我想去的地方看看。为什么没去呢，不舍得花钱，年前父亲生了场病，住院了，当时我大晚上下了班就坐高铁回去看他，我拎着水果在医院绕半天才找到入口，上了父亲病房楼层的时候，又绕了一圈，最后才怀着沉重的心情往重症区走去。父子两没什么好说的，我放下水果，问了几句，然后两个人就相顾无言了。没待多久，连夜赶回工作的城市。不过很幸运，不是大病，父亲很快就出院了。但这也提醒了我，我需要钱，所以，为此我必须要放弃一些。</p>
+<p>&ensp;&ensp;&ensp;&ensp;第二个目标是想拍一组自己满意的照片，这个在去年并没有达成，我没有安排自己旅游，周末时大部分时候都在家里准备技能证书的考试，不过在今年年初的团建，我拍了一组自己还算喜欢的照片，选了其中的一张作为我的桌面壁纸。在这里放一下，不会修图，纯粹就是套了DXO的滤镜。</p>
+<p><img src="https://img-loli.oss-cn-hangzhou.aliyuncs.com/blog/gallery/202503082117923.webp" alt=""></p>
+<p>&ensp;&ensp;&ensp;&ensp;第三个目标，考取证书，这个我倒是有惊无险的完成了，课其实在五月份六月左右就上完了，不过我的证书在八月份才考完，主要是一点误会耽误了，在题库的练习里面，合格的分数是85分，然而实际上60分就可以了。我为了达成85分的目标，反复在练习，花了很长的时间，不过结果总是好的。</p>
+<p>&ensp;&ensp;&ensp;&ensp;第四个目标，很笼统，我做到了吗？大概吧，去年和朋友一起去了几次大漫展，BW，CP，国漫，我可能确实是一个二次元宅 ，不喜欢外出。不过要是能拍好看的照片，那就不一样了。可惜的是朋友今年多半没时间了，没人一起玩，我出门的动力不足，今年还会去参加各种活动吗？</p>
+<p>&ensp;&ensp;&ensp;&ensp;回顾完了，那就该开始订今年的目标了。我想的很简单，今年就如下几个：</p>
+<ul>
+<li><p>攒下十万元的存款</p>
+</li>
+<li><p>每月看一本书，写一篇笔记</p>
+</li>
+<li><p>每三个月出一组照片</p>
+</li>
+<li><p>AI方向，尽量考一张证书</p>
+</li>
+</ul>
+<p>&ensp;&ensp;&ensp;&ensp;如上，存款是为了以后可能的买车，室友已经在看车了。一开始我觉得车对我来说不是很需要，不过母亲和我说过几回了，而且，如果能有辆车，也可能有助于我交友吧。关于看书，我准备看一些金融方面的，不求学到什么 ，希望和人交流时，对于社会经济变动能讲出自己的想法。即便一个月看不完一本，笔记也一样可以写。关于拍照，这个不能 放弃，毕竟买了这么贵的器材，放着吃灰太浪费了。希望今年能拍到更多有意思的，年底的时候挑一些打印出来。最后就是关于学习了，学无止尽，不能停下来，AI现在是风口，如果我能成风口的猪呢。</p>
+<p>&ensp;&ensp;&ensp;&ensp;就是这些吧，最后，祝愿妹妹高考顺利，能有理想的成绩。</p>
+]]></content>
+      <tags>
+        <tag>年终总结</tag>
       </tags>
   </entry>
 </search>
